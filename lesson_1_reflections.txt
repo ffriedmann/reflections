@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+diff shows only the differences between lines of two versions of a file. This enables changes to be more easily seen and identified. In this case, seeing something changed that may not have been done by the author or an apparent typo was easier and more reliable than reading one file then another.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Allows easy/faster reversion to a prior version of a file to correct a bug introduced in a later change. Also reduce probability of wiping out or damaging a file with no way to get back to a known (or any) point in the files versions. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Cons of manually would be needing to remember to make commits. The pro to me is being able to commit a meaningful change. auto save could save an incomplete set of changes potentially breaking the project.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+That would depend on who created the VCS. What was the intended use. Tracking multiple files would be a more involved undertaking so choosing to do that one would think would be for the benefit of those who would be possibly changing multiple files in a single logical change, like a program. A picture of audio file would probably be a monolithic process involving only the single media file. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+Use the log to see what each change was supposed to do and when, then git diff to see how the changes were made to the files. 
+
+How might using version control make you more confident to make changes that could break something?
+
+Easy to return to whatever state existed before the change, as long as the changes are of reasonable size. No real worries about breaking irrepairably any code. Play, test, revert, repeat......
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Everything a version control system would be used for. Docs, code, matlab scripts etc. 
+
+
+
