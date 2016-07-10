@@ -17,6 +17,9 @@ Make sure to add files to the staging area that only apply to the logical block 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Continue using the master branch to commit changes to the master files and what would be common to branches derived from it. Branches allow the master to still be the main branch for say a main version or release master and branches for variants of the master that don't warrant their own master line or for experimental work which may or may not ever see the light of day, all without messing up the main line. 
+
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
