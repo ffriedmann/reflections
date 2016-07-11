@@ -28,5 +28,8 @@ They enable one to see visually how the branches relate over the course of devel
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Result is adding the changes into the master branch without breaking it. the diagram shows where the initial branch started and where it ended. This allows seeing and determining where any interim changes to the master occured before attempting to merge the branch back into the master branch. 
+
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
