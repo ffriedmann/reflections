@@ -33,3 +33,7 @@ Result is adding the changes into the master branch without breaking it. the dia
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Timesaving if merge is simple or non-conflicting. But manual is still required for resolving conflicts of differing versions. 
+
+
