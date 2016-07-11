@@ -22,6 +22,9 @@ Continue using the master branch to commit changes to the master files and what 
 
 How do the diagrams help you visualize the branch structure?
 
+They enable one to see visually how the branches relate over the course of development much more clearly than a list of "stuff" would. Think of the difference of describing where everything in a city is as opposed to seeing it all on a map. Relationships are instantly more clear if the diagram is accurate and understandable. 
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
