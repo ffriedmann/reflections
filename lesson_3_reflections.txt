@@ -16,7 +16,7 @@ Clones are copies of a whole repository either within the same github user repos
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-   
+   Having a local copy of the last known state of a remote allows you to continue working offline anywhere/time until you can get online to merge changes and continue with work. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
